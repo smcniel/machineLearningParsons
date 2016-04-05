@@ -1,5 +1,3 @@
-# stand-in code to finish
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
